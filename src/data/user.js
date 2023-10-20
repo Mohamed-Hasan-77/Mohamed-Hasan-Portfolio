@@ -19,7 +19,7 @@ const INFO = {
 	homepage: {
 		title: "I,m Mohamed Hasan, a Front-End developer ",
 		description:
-			"Self-motivated Front-End developer with experience in building interactive and responsive web applications. Proficient in HTML, CSS, JavaScript, and modern frameworks like React and Redux Toolkit. Passionate about creating visually stunning and user-friendly interfaces.",
+			"Self-motivated Front-End developer with experience in building interactive and responsive web applications. Proficient in HTML, CSS, JavaScript, typeScript, and modern frameworks like React and Redux Toolkit. Passionate about creating visually stunning and user-friendly interfaces.",
 	},
 
 	about: {
