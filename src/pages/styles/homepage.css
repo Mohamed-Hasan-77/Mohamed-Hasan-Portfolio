@@ -51,6 +51,30 @@
 	width: 100%;
 }
 
+
+.homepage-CV {
+	width: 100px;
+	padding: 10px 20px;
+	border: 1px solid gray;
+	transition: background-color 0.2s ease-in-out;
+	cursor: pointer;
+	margin: 20px 0;
+}
+
+.homepage-CV a {
+	text-decoration: none;
+	color: black;
+}
+
+.homepage-CV:hover {
+	background-color: black;
+	border-color: white;
+}
+
+.homepage-CV:hover a {
+	color: white;
+}
+
 .homepage-socials {
 	display: flex;
 	justify-content: left;
