@@ -25,15 +25,10 @@ const INFO = {
 	about: {
 		title: "Hello, I’m Mohamed Hasan. ",
 		description:
-			`Enthusiastic and dedicated front-end React developer with a passion for creating engaging and intuitive user interfaces. Armed with a solid foundation in HTML, CSS, and JavaScript, I am well-versed in modern front-end technologies including Bootstrap, Tailwind CSS, TypeScript, Git, Redux, and SCSS. My proficiency is not just theoretical, I've successfully applied my skills in diverse projects, showcasing my ability to deliver high-quality, responsive web applications.
+			`Enthusiastic and dedicated front-end React developer with a passion for creating engaging and intuitive user interfaces. Armed with a solid foundation in HTML, CSS, and JavaScript and ReactJs, I am well-versed in modern front-end technologies including Bootstrap, Tailwind CSS, TypeScript, Git, Redux, and SCSS. My proficiency is not just theoretical, I've successfully applied my skills in diverse projects, showcasing my ability to deliver high-quality, responsive web applications.
 			What sets me apart is not only my technical proficiency but also my relentless commitment to learning. A fast learner by nature, I have a hunger for knowledge that drives me to stay abreast of the latest industry trends and advancements.`,
 	},
 
-	articles: {
-		title: "I'm passionate about pushing the boundaries of what's possible and inspiring the next generation of innovators.",
-		description:
-			"Chronological collection of my long-form thoughts on programming, leadership, product design, and more.",
-	},
 
 	projects: [
 		{

@@ -41,6 +41,26 @@ const About = () => {
 								<div className="subtitle about-subtitle">
 									{INFO.about.description}
 								</div>
+
+
+
+								<div className="skills"> 
+								<h3>My Skills </h3>
+									<ul>
+										<li>HTML5 </li>
+										<li> CSS3 </li>
+										<li>JavaScript </li>
+										<li> ReactJs </li>
+										<li>Sass </li>
+										<li>Bootstrap </li>
+										<li>Tailwind </li>
+										<li>Git </li>
+										<li>TypeScript </li>
+										<li>Redux </li>
+									</ul>
+								
+								
+								</div>
 							</div>
 
 							<div className="about-left-side">

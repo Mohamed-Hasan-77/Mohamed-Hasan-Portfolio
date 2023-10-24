@@ -33,6 +33,21 @@
 	width: 100% !important;
 }
 
+.about-right-side .skills {
+	margin-top: 50px;
+}
+
+.about-right-side .skills ul {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-around;
+	list-style: disc;
+}
+
+.about-right-side .skills ul li {
+	width: 50%;
+}
+
 .about-subtitle {
 	width: 80% !important;
 }
