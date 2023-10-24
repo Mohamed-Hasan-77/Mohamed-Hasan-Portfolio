@@ -71,6 +71,14 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://marvel-portfolio-chi.vercel.app/",
 		},
+		{
+			title: "Kerri ",
+			description:
+				"simple portfolio website with a Modern design and very nice animations made with bootstrap",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://kerri-self.vercel.app/#home",
+		},
 
 		{
 			title: "Photo Editor",
