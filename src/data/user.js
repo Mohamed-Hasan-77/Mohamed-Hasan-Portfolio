@@ -57,6 +57,14 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://react-admin-dashboard-kohl.vercel.app/",
 		},
+		{
+			title: "Daunku-interior design Website",
+			description:
+				"Interior Design Website Using React, Tailwind CSS and Framer Motion.",
+			logo: "https://img.icons8.com/cute-clipart/64/react-native.png",
+			linkText: "View Project",
+			link: "https://interior-design-react-app.vercel.app/",
+		},
 
 		{
 			title: "Marvel Portfolio ",
