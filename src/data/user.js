@@ -67,6 +67,15 @@ const INFO = {
 		},
 
 		{
+			title: "Code Camping Courses ",
+			description:
+				" Programming Courses website and Modern design with nice animation with Full login and Signup System with authentication ",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://code-camping-courses.vercel.app/contact.html",
+		},
+
+		{
 			title: "Marvel Portfolio ",
 			description:
 				"simple portfolio website with a Modern design .sleek dark mode and very nice animations ",
