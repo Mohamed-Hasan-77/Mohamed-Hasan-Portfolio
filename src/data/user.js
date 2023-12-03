@@ -72,7 +72,7 @@ const INFO = {
 				" Programming Courses website and Modern design with nice animation with Full login and Signup System with authentication ",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: "https://code-camping-courses.vercel.app/contact.html",
+			link: "https://code-camping-courses.vercel.app/index.html",
 		},
 
 		{
