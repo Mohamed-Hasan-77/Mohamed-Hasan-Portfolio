@@ -50,11 +50,11 @@ const About = () => {
 										<li>HTML5 </li>
 										<li> CSS3 </li>
 										<li>JavaScript </li>
-										<li> ReactJs </li>
+										<li> React.Js </li>
+										<li> Next.Js </li>
 										<li>Sass </li>
 										<li>Bootstrap </li>
 										<li>Tailwind </li>
-										<li>Git </li>
 										<li>TypeScript </li>
 										<li>Redux </li>
 									</ul>
