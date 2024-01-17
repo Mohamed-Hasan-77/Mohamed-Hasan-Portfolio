@@ -69,7 +69,7 @@ const INFO = {
 			title: "جولة افتراضية 360",
 			description:
 				" website that provide virtual 360 tours for Hotels, restaurants or any place  ",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
 			link: "https://360-virtual-tour.vercel.app/Ar.html",
 		},
