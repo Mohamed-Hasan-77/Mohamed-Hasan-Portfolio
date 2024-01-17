@@ -65,6 +65,14 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://interior-design-react-app.vercel.app/",
 		},
+		{
+			title: "جولة افتراضية 360",
+			description:
+				" website that provide virtual 360 tours for Hotels, restaurants or any place  ",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
+			linkText: "View Project",
+			link: "https://360-virtual-tour.vercel.app/Ar.html",
+		},
 
 		{
 			title: "Code Camping Courses ",
@@ -108,14 +116,6 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://daniels-company.vercel.app/#",
 		},
-		// {
-		// 	title: "DevFolio",
-		// 	description:
-		// 		"simple website with a Modern design and very nice animations using HTML-CSS-Bootstrap ",
-		// 	logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/html/html.png",
-		// 	linkText: "View Project",
-		// 	link: "https://dev-portfolio-one-rho.vercel.app/",
-		// },
 		{
 			title: "Construction services",
 			description:
