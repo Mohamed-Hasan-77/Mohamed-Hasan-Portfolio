@@ -3,7 +3,6 @@ const INFO = {
 		title: "Mohamed Hasan",
 		name: "Mohamed Hasan",
 		email: "mahmedhasnn@gmail.com",
-		// logo: "../logo.png",
 		logo: "../MohamedIcon.png",
 	},
 
@@ -12,7 +11,6 @@ const INFO = {
 		github: "https://github.com/Mohamed-Hasan-77",
 		linkedin: "https://www.linkedin.com/in/mohamed-hasan-962a5a204/",
 		instagram: "https://www.instagram.com/mo7amed7asan7/",
-		// stackoverflow: "https://stackoverflow.com/",
 		facebook: "https://www.facebook.com/profile.php?id=100013081533163",
 	},
 
