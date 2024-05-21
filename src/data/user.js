@@ -58,7 +58,7 @@ const INFO = {
 				" Website for a company that provides E-Commerce services, Website Development, and Digital Marketing ",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: " https://smarketing.llc/ ",
+			link: "https://smarketing.llc/",
 		},
 		{
 			title: "GR7 - Online Coaching ",
@@ -81,7 +81,7 @@ const INFO = {
 				" quiz for the previous online coaching website to calculate the BMI and make a nutation plane for Women  ",
 			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
 			linkText: "View Project",
-			link: " https://gr7.fit/Gr7New/ ",
+			link: "https://gr7.fit/Gr7New/ ",
 		},
 
 		{
