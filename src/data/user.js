@@ -22,22 +22,11 @@ const INFO = {
 
 	about: {
 		title: "Hello, I’m Mohamed Hasan. ",
-		description:
-			`Enthusiastic and dedicated front-end React developer with a passion for creating engaging and intuitive user interfaces. Armed with a solid foundation in HTML, CSS, and JavaScript and ReactJs, I am well-versed in modern front-end technologies including Bootstrap, Tailwind CSS, TypeScript, Git, Redux, and SCSS. My proficiency is not just theoretical, I've successfully applied my skills in diverse projects, showcasing my ability to deliver high-quality, responsive web applications.
+		description: `Enthusiastic and dedicated front-end React developer with a passion for creating engaging and intuitive user interfaces. Armed with a solid foundation in HTML, CSS, and JavaScript and ReactJs, I am well-versed in modern front-end technologies including Bootstrap, Tailwind CSS, TypeScript, Git, Redux, and SCSS. My proficiency is not just theoretical, I've successfully applied my skills in diverse projects, showcasing my ability to deliver high-quality, responsive web applications.
 			What sets me apart is not only my technical proficiency but also my relentless commitment to learning. A fast learner by nature, I have a hunger for knowledge that drives me to stay abreast of the latest industry trends and advancements.`,
 	},
 
-
 	projects: [
-		{
-			title: "E-Commerce FreshCart",
-			description:
-				"e-commerce app using React featuring real API integration, secure payment gateway, order tracking, and a fully functional login and register system.",
-			logo: "https://img.icons8.com/cute-clipart/64/react-native.png",
-			linkText: "View Project",
-			link: "https://e-commerce-fresh-cart.vercel.app/",
-		},
-
 		{
 			title: "Trending Movies App",
 			description:
@@ -64,6 +53,60 @@ const INFO = {
 			link: "https://interior-design-react-app.vercel.app/",
 		},
 		{
+			title: " SMarketing - E-Commerce services ",
+			description:
+				" Website for a company that provides E-Commerce services, Website Development, and Digital Marketing ",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: " https://smarketing.llc/ ",
+		},
+		{
+			title: "GR7 - Online Coaching ",
+			description: " Online Coaching project ",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://gr7.fit/",
+		},
+		{
+			title: "GR7 - Quiz- Men ",
+			description:
+				" quiz for the previous online coaching website to calculate the BMI and make a nutation plane for Men  ",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://gr7.fit/men/",
+		},
+		{
+			title: "GR7 - Quiz - Women ",
+			description:
+				" quiz for the previous online coaching website to calculate the BMI and make a nutation plane for Women  ",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: " https://gr7.fit/Gr7New/ ",
+		},
+
+		{
+			title: " SMarketing - BUSINESS SETUP CONSULTANTS ",
+			description: " BUSINESS SETUP CONSULTANTS Company ",
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://smarketing.llc/BusinessSetup/#/AR",
+		},
+		{
+			title: "E-Commerce FreshCart",
+			description:
+				"e-commerce app using React featuring real API integration, secure payment gateway, order tracking, and a fully functional login and register system.",
+			logo: "https://img.icons8.com/cute-clipart/64/react-native.png",
+			linkText: "View Project",
+			link: "https://e-commerce-fresh-cart.vercel.app/",
+		},
+		{
+			title: "Saudi Arabia landmarks ",
+			description: `discover Saudi Arabia landmarks with Interactive Saudi Arabia map where you can discover each city's landmarks by clicking on it `,
+			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
+			linkText: "View Project",
+			link: "https://saudi-360-tour.vercel.app/",
+		},
+		{
 			title: "جولة افتراضية 360",
 			description:
 				" website that provide virtual 360 tours for Hotels, restaurants or any place  ",
@@ -71,7 +114,6 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://gotour360.com/index.html",
 		},
-
 		{
 			title: "Code Camping Courses ",
 			description:
