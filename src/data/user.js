@@ -7,7 +7,7 @@ const INFO = {
 	},
 
 	socials: {
-		twitter: "https://twitter.com/MoHasan92198119",
+		// twitter: "https://twitter.com/MoHasan92198119",
 		github: "https://github.com/Mohamed-Hasan-77",
 		linkedin: "https://www.linkedin.com/in/mohamed-hasan-962a5a204/",
 		instagram: "https://www.instagram.com/mo7amed7asan7/",
@@ -35,7 +35,45 @@ const INFO = {
 			linkText: "View Project",
 			link: "https://trending-movies-app-nine.vercel.app/",
 		},
+		{
+			title: " SMarketing - E-Commerce services ",
+			description:
+				" Website for a company that provides E-Commerce services, Website Development, and Digital Marketing ",
+			logo: "https://img.icons8.com/cute-clipart/64/react-native.png",
+			linkText: "View Project",
+			link: "https://smarketing.llc/",
+		},
+		{
+			title: "GR7 - Online Coaching ",
+			description: " Online Coaching project ",
+			logo: "https://img.icons8.com/cute-clipart/64/react-native.png",
+			linkText: "View Project",
+			link: "https://gr7.fit/",
+		},
+		{
+			title: "GR7 - Quiz- Men ",
+			description:
+				" quiz for the previous online coaching website to calculate the BMI and make a nutation plane for Men  ",
+			logo: "https://img.icons8.com/cute-clipart/64/react-native.png",
+			linkText: "View Project",
+			link: "https://gr7.fit/men/",
+		},
+		{
+			title: "GR7 - Quiz - Women ",
+			description:
+				" quiz for the previous online coaching website to calculate the BMI and make a nutation plane for Women  ",
+			logo: "https://img.icons8.com/cute-clipart/64/react-native.png",
+			linkText: "View Project",
+			link: "https://gr7.fit/Gr7New/ ",
+		},
 
+		{
+			title: " SMarketing - BUSINESS SETUP CONSULTANTS ",
+			description: " BUSINESS SETUP CONSULTANTS Company ",
+			logo: "https://img.icons8.com/cute-clipart/64/react-native.png",
+			linkText: "View Project",
+			link: "https://smarketing.llc/BusinessSetup/#/AR",
+		},
 		{
 			title: "Admin Dashboard",
 			description:
@@ -51,45 +89,6 @@ const INFO = {
 			logo: "https://img.icons8.com/cute-clipart/64/react-native.png",
 			linkText: "View Project",
 			link: "https://interior-design-react-app.vercel.app/",
-		},
-		{
-			title: " SMarketing - E-Commerce services ",
-			description:
-				" Website for a company that provides E-Commerce services, Website Development, and Digital Marketing ",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://smarketing.llc/",
-		},
-		{
-			title: "GR7 - Online Coaching ",
-			description: " Online Coaching project ",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://gr7.fit/",
-		},
-		{
-			title: "GR7 - Quiz- Men ",
-			description:
-				" quiz for the previous online coaching website to calculate the BMI and make a nutation plane for Men  ",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://gr7.fit/men/",
-		},
-		{
-			title: "GR7 - Quiz - Women ",
-			description:
-				" quiz for the previous online coaching website to calculate the BMI and make a nutation plane for Women  ",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://gr7.fit/Gr7New/ ",
-		},
-
-		{
-			title: " SMarketing - BUSINESS SETUP CONSULTANTS ",
-			description: " BUSINESS SETUP CONSULTANTS Company ",
-			logo: "https://cdn.jsdelivr.net/npm/programming-languages-logos/src/javascript/javascript.png",
-			linkText: "View Project",
-			link: "https://smarketing.llc/BusinessSetup/#/AR",
 		},
 		{
 			title: "E-Commerce FreshCart",

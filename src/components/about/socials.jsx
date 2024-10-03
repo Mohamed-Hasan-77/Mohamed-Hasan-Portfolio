@@ -60,7 +60,7 @@ const Socials = () => {
 				</a>
 			</div>
 
-			<div className="social">
+			{/* <div className="social">
 				<a href={INFO.socials.twitter} target="_blank" rel="noreferrer">
 					<div className="social-icon">
 						<FontAwesomeIcon
@@ -70,7 +70,7 @@ const Socials = () => {
 					</div>
 					<div className="social-text"> Twitter</div>
 				</a>
-			</div>
+			</div> */}
 
 			<div className="email">
 				<div className="email-wrapper">
